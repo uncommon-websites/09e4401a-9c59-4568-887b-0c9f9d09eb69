@@ -12,9 +12,9 @@
                 {/each}
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Scale every channel</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Automatic claim detection</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Connect and scale Slack, Microsoft Teams, Discord, portal, email, chat, forms and more with the fastest support inbox ever built.
+          Claimable automatically monitors all your shipments and instantly identifies late deliveries, damaged packages, and lost items eligible for carrier refunds.
         </p>
       </div>
 
@@ -36,9 +36,9 @@
                 Negative shift
             </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Understand every customer</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Track recovery performance</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Drive product and revenue. Automatically surface product themes, customer trends, and churn signals.
+          Monitor claim status in real-time, analyze carrier performance trends, and identify opportunities to maximize your shipping cost recovery.
         </p>
       </div>
 
@@ -54,9 +54,9 @@
                  <div class="px-3 py-1 bg-green-600/20 text-green-400 border border-green-600/30 text-xs rounded font-medium">Draft reply</div>
              </div>
         </div>
-        <h3 class="text-xl font-bold text-white mb-3">Empower every team member</h3>
+        <h3 class="text-xl font-bold text-white mb-3">Automated filing & tracking</h3>
         <p class="text-gray-400 text-sm leading-relaxed">
-          Supercharge your team with AI built for B2B. Triage queries, engage customers, and investigate technical queries with accuracy.
+          No more manual claim forms or carrier portals. Claimable automatically files claims with proper documentation and tracks them to completion.
         </p>
       </div>
 
